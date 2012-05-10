@@ -1,0 +1,17 @@
+{
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "name": "book-file",
+  "description": "file transport for book logging framework",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-book-file.git"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
