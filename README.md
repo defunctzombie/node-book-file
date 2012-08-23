@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/shtylman/node-book-file.png)](http://travis-ci.org/shtylman/node-book-file)
 book-file is a file transport for the [book](https://github.com/shtylman/node-book) logging framework. It will write out the json contents of the log entry.
 
 ## installation ##
